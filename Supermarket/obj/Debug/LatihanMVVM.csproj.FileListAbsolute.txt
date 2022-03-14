@@ -1,0 +1,5 @@
+D:\ITS\SEMESTER 6\PBKK\TUGAS4\SupermarketNew\LatihanMVVM\obj\Debug\LatihanMVVM.csproj.AssemblyReference.cache
+D:\ITS\SEMESTER 6\PBKK\TUGAS4\SupermarketNew\LatihanMVVM\obj\Debug\MainWindow.g.cs
+D:\ITS\SEMESTER 6\PBKK\TUGAS4\SupermarketNew\LatihanMVVM\obj\Debug\App.g.cs
+D:\ITS\SEMESTER 6\PBKK\TUGAS4\SupermarketNew\LatihanMVVM\obj\Debug\LatihanMVVM_MarkupCompile.cache
+D:\ITS\SEMESTER 6\PBKK\TUGAS4\SupermarketNew\LatihanMVVM\obj\Debug\LatihanMVVM_MarkupCompile.lref
